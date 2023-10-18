@@ -22,14 +22,9 @@ factorial(A,B) :-
  B is A*D. 
 ```
 
-
-
 ### Output:
 
-![image](https://github.com/Sudhindev/AI_Lab_2023-24/assets/130021386/0d915909-a69c-4bd0-b45b-e3a9d35c576e)
-
-
-
+![image](https://github.com/nithish143257/AI_Lab_2023-24/assets/113762839/432dee8c-3d98-4425-9dad-cb514b99ee9f)
 
 ### Result:
 Thus the factorial of given number was found by logic programming. 
