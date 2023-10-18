@@ -16,15 +16,16 @@ To  write  a logic program for finding the factorial of given number using SWI-P
 ```
 factorial(0,1).
 factorial(A,B) :-
- A > 0,
- C is A-1,
- factorial(C,D),
- B is A*D. 
+  A > 0,
+  C is A-1,
+  factorial(C,D),
+  B is A*D. 
 ```
 
 ### Output:
 
-![image](https://github.com/nithish143257/AI_Lab_2023-24/assets/113762839/432dee8c-3d98-4425-9dad-cb514b99ee9f)
+![image](https://github.com/nithish143257/AI_Lab_2023-24/assets/113762839/11ef23d0-71e7-4d18-9010-4dd18abf37c6)
+
 
 ### Result:
 Thus the factorial of given number was found by logic programming. 
