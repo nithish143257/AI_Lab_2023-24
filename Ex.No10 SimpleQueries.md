@@ -82,7 +82,7 @@ american(west).
 ```
 ### Output:
 
-![image](https://github.com/HariHaranLK/AI_Lab_2023-24/assets/132996089/34a73218-408e-4dee-886f-3412361a19d9)
+![image](https://github.com/nithish143257/AI_Lab_2023-24/assets/113762839/8b1c63f5-f6fe-49bd-952a-e9186322c06c)
 
 ### Result:
 Thus the prolog programs were executed successfully and the answer of query was found.
